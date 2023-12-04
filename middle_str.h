@@ -1,0 +1,17 @@
+#include <string>
+using namespace std;
+
+bool itc_isDigit(unsigned char c); // 1
+unsigned char itc_toUpper(unsigned char c); // 2
+unsigned char itc_toLower(unsigned char c);
+long long find_len(string str);
+unsigned char itc_changeCase(unsigned char c); // 3
+bool itc_compare(string s1, string s2); // 4
+int itc_countWords(string str); // 5
+string itc_maxCharWord(string str); // 6
+
+
+#ifndef MIDDLESTRING_MIDDLE_STR_H
+#define MIDDLESTRING_MIDDLE_STR_H
+
+#endif //MIDDLESTRING_MIDDLE_STR_H
