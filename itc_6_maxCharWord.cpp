@@ -1,6 +1,5 @@
 #include "middle_str.h"
 #include <string>
-#include <iostream>
 using namespace std;
 
 bool isLetter(char c) {

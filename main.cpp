@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-    cout << itc_maxCharWord("Hello how are you?");
+    cout << itc_countWords("Hello how are you?");
     return 0;
 }
